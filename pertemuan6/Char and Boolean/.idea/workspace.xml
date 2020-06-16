@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c9fd603-e8b9-4025-8b23-e19877fa58d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Char and Boolean.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Char and Boolean/com/multiplatform/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/multiplatform/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/multiplatform/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2c9fd603-e8b9-4025-8b23-e19877fa58d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,60 +12,9 @@
   </component>
   <component name="ProjectId" id="1dLOlOiFqpPJ6T5tCaBS2OEbFEb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -105,5 +45,27 @@
       <updated>1592201059031</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1592205374238">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1592205374238" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1592205374237">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1592205374237" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1592205374237">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1592205374237" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1592205374237">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1592205374237" />
+    <state x="91" y="0" key="new project wizard" timestamp="1592205370656">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1592205370656" />
   </component>
 </project>
